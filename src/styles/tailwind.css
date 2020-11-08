@@ -12,6 +12,7 @@ body {
     font-family: 'Work Sans', sans-serif;
   }
 
+<<<<<<< HEAD
 df-messenger {
      --df-messenger-bot-message: #124653;
      --df-messenger-button-titlebar-color: #FE8D8F;
@@ -20,3 +21,9 @@ df-messenger {
      --df-messenger-send-icon: #FE8D8F;
      --df-messenger-user-message: #FE8D8F;
  }
+=======
+  .hero {
+    height: 100%;
+  }
+  
+>>>>>>> 3a8084b9582a8c54a010a7154b52a0666550756f
