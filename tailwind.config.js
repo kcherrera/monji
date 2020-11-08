@@ -6,6 +6,10 @@ module.exports = {
   purge: ["./src/**/*.js"],
   target: "relaxed",
   theme: {
+    fontFamily: {
+      'poppins': ['poppins', 'sans-serif'],
+      'WorkSans': ['"Work Sans"', 'sans-serif']
+    },
     extend: {},
   },
   variants: {},
